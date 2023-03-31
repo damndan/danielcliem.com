@@ -12,7 +12,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <div>
-          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m happily married, a tech enthusiast, a prolific investor, an addicted athlete & a dog lover. i helplessly build things in my spare time.
+          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m happily married, a tech enthusiast, an active investor, an addicted athlete & a dog lover. i helplessly build things in my spare time.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -22,7 +22,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            actively investing in future of work and SaaS: productivity tools, infra / devOps, AI, remote work, vertical SaaS, mobile.
+            actively investing in future of work and SaaS: productivity tools, infra / devOps, AI, vertical SaaS.
             both personally and as a scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack&apos;s fund):
           </li>
           <br />
@@ -35,11 +35,11 @@ export default function Home() {
           <br />
           • <u><a href="https://sironamedical.com/" target="_blank">Sirona Medical</a></u> – pre-seed (personal)
           <br />
-          • <u><a href="https://launchnotes.com/" target="_blank">Launchnotes.com</a></u> – series A (Craft)
+          • <u><a href="https://launchnotes.com/" target="_blank">Launchnotes.com</a></u> – series A (craft)
           <br />
           • <u><a href="https://oslash.com/" target="_blank">Oslash.com</a></u> – seed (personal)
           <br />
-          • <u><a href="https://nango.dev/" target="_blank">Nango.dev</a></u> – seed (Craft)
+          • <u><a href="https://nango.dev/" target="_blank">Nango.dev</a></u> – seed (craft)
           <br />
           • <u><a href="https://dromo.io/" target="_blank">Dromo.io</a></u> – seed (personal)
           <br />
@@ -47,7 +47,7 @@ export default function Home() {
           <br />
           • <u><a href="https://headsup.ai/" target="_blank">Headsup.ai</a></u> – seed (personal)
           <br />
-          • <u><a href="https://cooby.co/" target="_blank">Cooby.co</a></u> – series A (Craft)
+          • <u><a href="https://cooby.co/" target="_blank">Cooby.co</a></u> – series A (craft)
           <br />
           • <u><a href="https://highlight.run/" target="_blank">Highlight.run</a></u> – seed (personal)
 
@@ -57,13 +57,13 @@ export default function Home() {
 
           <br /><br />
 
-          • <u><a href="https://www.nitra.com/" target="_blank">Nitra.com</a></u> – seed (Craft)
+          • <u><a href="https://www.nitra.com/" target="_blank">Nitra.com</a></u> – seed (craft)
           <br />
           • <u><a href="https://livekindred.com/" target="_blank">Kindred Homes</a></u> – seed (personal)
           <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">Meliora Therapeutics</a></u> – seed (personal)
           <br />
-          • <u><a href="https://www.bonfire.xyz/" target="_blank">Bonfire.xyz</a></u> – seed (Craft)
+          • <u><a href="https://www.bonfire.xyz/" target="_blank">Bonfire.xyz</a></u> – seed (craft)
           <br />
           • <u><a href="https://www.raincards.xyz/" target="_blank">Rain.xyz</a></u> – seed (personal)
           <br />
@@ -80,12 +80,12 @@ export default function Home() {
           </li>
           <br />
           <li>
-            passionate about <u><a href="https://strava.com/athletes/damndanielliem" target="_blank">cycling</a></u>;
+            addicted to <u><a href="https://strava.com/athletes/damndan" target="_blank">cycling</a></u>;
             own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> (wedding gift)
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs
+            own a home in Sunset, SF for 5+ yrs. grew up in Arcadia, LA (went to AHS)
           </li>
           <br />
           <li>
