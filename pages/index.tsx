@@ -89,7 +89,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            co-own (w/ parents-in-law) a labrador retriever named Max (see my favicon)
+            co-own (w/ parents-in-law) a 90lb labrador retriever named Max (my favicon)
           </li>
           <br />
           <li>
