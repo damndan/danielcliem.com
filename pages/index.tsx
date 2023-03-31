@@ -85,7 +85,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs. grew up in Arcadia, LA (went to AHS)
+            own a home in Sunset, SF for 5+ yrs; grew up in Arcadia, LA (went to AHS)
           </li>
           <br />
           <li>
