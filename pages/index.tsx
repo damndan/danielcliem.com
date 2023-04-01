@@ -12,7 +12,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <div>
-          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m happily married, a tech enthusiast, an active investor, an addicted athlete & a dog lover. i helplessly build things in my spare time.
+          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/dcliem/status/1536403331714756609" target="_blank">happily married</a></u>, a tech enthusiast, an active investor, an addicted athlete & a dog lover. i helplessly build things in my spare time.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -89,7 +89,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            co-own (w/ parents-in-law) a 90lb labrador retriever named Max (my favicon)
+            co-own (w/ in-laws) a 90lb labrador retriever named Max (my favicon)
           </li>
           <br />
           <li>
