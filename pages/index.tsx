@@ -83,12 +83,13 @@ export default function Home() {
           </li>
           <br />
           <li>
-            addicted to cycling;
-            own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> (wedding gift)
+            own a home in Sunset, SF for 5+ yrs, been living in Bay Area 12+; grew up in Arcadia, LA (went to AHS) with one slightly smarter brother 
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs, been living in Bay Area 12+; grew up in Arcadia, LA (went to AHS) with one slightly smarter brother 
+            addicted to cycling;
+            own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> 
+            <u><a href="https://twitter.com/dcliem/status/1554545372567023617?s=20" target="_blank">(wedding gift)</a></u>
           </li>
           <br />
           <li>
