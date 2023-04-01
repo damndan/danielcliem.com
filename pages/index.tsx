@@ -12,7 +12,10 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <div>
-          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/dcliem/status/1536403331714756609" target="_blank">happily married</a></u>, a tech enthusiast, an active investor, an addicted athlete & a dog lover. i helplessly build things in my spare time.
+          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/dcliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
+          a tech enthusiast, an active investor, 
+          an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> & 
+          a <u><a href="https://twitter.com/dcliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things in my spare time.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -22,7 +25,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            actively investing in future of work and SaaS: productivity tools, infra / devOps, AI, vertical SaaS.
+            early stage investing in future of work and SaaS: productivity tools, infra / devOps, AI, vertical SaaS.
             both personally and as a scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack&apos;s fund):
           </li>
           <br />
@@ -80,16 +83,16 @@ export default function Home() {
           </li>
           <br />
           <li>
-            addicted to <u><a href="https://strava.com/athletes/damndan" target="_blank">cycling</a></u>;
+            addicted to cycling;
             own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> (wedding gift)
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs; grew up in Arcadia, LA (went to AHS) with one slightly smarter brother 
+            own a home in Sunset, SF for 5+ yrs, been living in Bay Area 12+; grew up in Arcadia, LA (went to AHS) with one slightly smarter brother 
           </li>
           <br />
           <li>
-            co-own (w/ in-laws) a 90lb labrador retriever named Max (my favicon)
+            co-own (w in-laws) a 90lb lab named <u><a href="https://twitter.com/dcliem/status/1558936398685560832?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u> (my favicon)
           </li>
           <br />
           <li>
