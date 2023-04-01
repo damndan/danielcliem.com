@@ -88,8 +88,7 @@ export default function Home() {
           <br />
           <li>
             addicted to cycling;
-            own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> 
-            <u><a href="https://twitter.com/dcliem/status/1554545372567023617?s=20" target="_blank">(wedding gift)</a></u>
+            own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> (<u><a href="https://twitter.com/dcliem/status/1554545372567023617?s=20" target="_blank">wedding gift</a></u>)
           </li>
           <br />
           <li>
