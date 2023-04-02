@@ -15,12 +15,12 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/dcliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech enthusiast, an active investor, 
           an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> & 
-          a <u><a href="https://twitter.com/dcliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things in my spare time.
+          a <u><a href="https://twitter.com/dcliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things as a hobby.
         </div>
         <br />
         <ul className={styles.ul}>
           <li>
-            currently co-founding <u><a href="https://gentrace.ai/" target="_blank">Gentrace.ai</a></u> – an observability platform for LLMs / gen AI companies,
+            co-founding <u><a href="https://gentrace.ai/" target="_blank">Gentrace.ai</a></u> – an observability platform for LLMs / gen AI companies,
             with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug Safreno</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek Nair</a></u>. we have $3.5M seed; we believe AI is going to change the world
           </li>
           <br />
@@ -56,7 +56,7 @@ export default function Home() {
 
           <br /><br />
 
-          others not particularly SaaS but i personally know / believe in the founder:
+          others not particularly SaaS but i&apos;ve worked with / believe in the founder:
 
           <br /><br />
 
@@ -79,16 +79,16 @@ export default function Home() {
           </li>
           <br />
           <li>
-            graduated Stanford in CS; dropped out of Masters in BMI
+            graduated CS @ Stanford; dropped out of Masters in BMI
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs, been living in Bay Area 12+; grew up in Arcadia, LA (went to AHS) with one slightly smarter brother 
+            own a home in Sunset, SF for 5+ yrs, living in Bay Area 12+; born in LA, grew up in Arcadia (went to AHS) with one slightly smarter brother 
           </li>
           <br />
           <li>
             addicted to cycling;
-            own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> (<u><a href="https://twitter.com/dcliem/status/1554545372567023617?s=20" target="_blank">wedding gift</a></u>)
+            own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> (wedding gift)
           </li>
           <br />
           <li>
@@ -97,6 +97,10 @@ export default function Home() {
           <br />
           <li>
             occassionally on <u><a href="https://twitter.com/dcliem" target="_blank">Twitter</a></u>, even though I think it&apos;s largely a distraction..
+          </li>
+          <br />
+          <li>
+            proud 2nd gen Chinese-Indonesian 🇮🇩
           </li>
         </ul>
 
