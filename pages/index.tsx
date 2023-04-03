@@ -9,9 +9,15 @@ export default function Home() {
     <Head>
       <title>danielcliem.com</title>
     </Head>
+    
     <main className={styles.main}>
       <div className={styles.description}>
+    
         <div>
+
+          {/* thx for checking out my code! i know it's embarassingly suboptimal (a static page hosted on github is like forcing a square peg in a round hole..),
+          but my intent was to learn Next and how github actions can build deploy. prob should've used Vercel. like i said, I helplessly build things as a hobby */}
+
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/dcliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech enthusiast, an active investor, 
           an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> & 
@@ -21,7 +27,7 @@ export default function Home() {
         <ul className={styles.ul}>
           <li>
             co-founding <u><a href="https://gentrace.ai/" target="_blank">Gentrace.ai</a></u> – an observability platform for LLMs / gen AI companies,
-            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug Safreno</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek Nair</a></u>. we have $3.5M seed; we believe AI is going to change the world
+            w/ <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug Safreno</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek Nair</a></u>. we have $3.5M seed; we believe AI is going to change the world
           </li>
           <br />
           <li>
@@ -73,8 +79,8 @@ export default function Home() {
 
           <br />
           <li>
-            previously did my tour around SV, including:
-            investor @ Obvious ventures (Ev William&apos;s fund), product @ Uber (platform), Dropbox & FiscalNote (all three of which have since gone public),
+            prev did my tour around SV:
+            investor @ Obvious ventures (Ev William&apos;s fund), product @ Uber, Dropbox & FiscalNote (all three of which have since gone public),
             specializing in devOps, mobile & SaaS products
           </li>
           <br />
@@ -83,7 +89,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs, living in Bay Area 12+; born in LA, grew up in Arcadia (went to AHS) with one slightly smarter brother 
+            own a home in Sunset, SF for 5+ yrs, living in Bay Area 12+; born in LA, grew up in Arcadia (went to AHS) w one slightly smarter brother 
           </li>
           <br />
           <li>
@@ -92,7 +98,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            co-own (w in-laws) a 90lb lab named <u><a href="https://twitter.com/dcliem/status/1558936398685560832?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u> (my favicon)
+            co-own (w in-laws) a 7yr 90lb lab named <u><a href="https://twitter.com/dcliem/status/1558936398685560832?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u> (my favicon)
           </li>
           <br />
           <li>
@@ -105,7 +111,7 @@ export default function Home() {
         </ul>
 
         <br />
-        <a href="mailto:hi@danielcliem.com">hi@danielcliem.com</a>
+        <a href="mailto:hi@danielcliem.com?Subject=cool%20site,%20I'm%20{name}%20–%20let's%20chat">hi@danielcliem.com</a>
 
       </div>
     </main>
