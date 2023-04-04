@@ -68,7 +68,7 @@ export default function Home() {
 
           • <u><a href="https://www.nitra.com/" target="_blank">Nitra.com</a></u> – seed (craft)
           <br />
-          • <u><a href="https://livekindred.com/" target="_blank">Kindred Homes</a></u> – seed (personal)
+          • <u><a href="https://livekindred.com/" target="_blank">Kindred Homes</a></u> – series A (personal)
           <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">Meliora Therapeutics</a></u> – seed (personal)
           <br />
