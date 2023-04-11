@@ -27,7 +27,7 @@ export default function Home() {
         <ul className={styles.ul}>
           <li>
             co-founding <u><a href="https://gentrace.ai/" target="_blank">Gentrace.ai</a></u> – an observability platform for LLMs / gen AI companies,
-            w/ <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug Safreno</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek Nair</a></u>. we have $3.5M seed; we believe AI is going to change the world
+            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug Safreno</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek Nair</a></u>. we have $3.5M seed; we believe AI is going to change the world
           </li>
           <br />
           <li>
@@ -94,7 +94,7 @@ export default function Home() {
           <br />
           <li>
             addicted to cycling;
-            own a stealth black <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR Disc Di2</a></u> (wedding gift)
+            own an Ultra Stealth <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/" target="_blank">Canyon Aeroad CFR disc Di2</a></u>, Dura-Ace PM, DT Swiss ARC Dicut (wedding gift – same model by Movistar / Alpecin)
           </li>
           <br />
           <li>
