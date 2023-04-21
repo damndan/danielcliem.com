@@ -18,10 +18,10 @@ export default function Home() {
           {/* thx for checking out my code! i know it's embarassingly suboptimal (a static page hosted on github is like forcing a square peg in a round hole..),
           but my intent was to learn Next and how github actions can build deploy. prob should've used Vercel. like i said, I helplessly build things as a hobby */}
 
-          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/dcliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
+          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech enthusiast, an active investor, 
           an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> & 
-          a <u><a href="https://twitter.com/dcliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things as a hobby.
+          a <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things as a hobby.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -68,7 +68,7 @@ export default function Home() {
 
           • <u><a href="https://www.nitra.com/" target="_blank">Nitra.com</a></u> – seed (craft)
           <br />
-          • <u><a href="https://livekindred.com/" target="_blank">Kindred Homes</a></u> – series A (personal)
+          • <u><a href="https://livekindred.com/" target="_blank">Kindred</a></u> – series A (personal)
           <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">Meliora Therapeutics</a></u> – seed (personal)
           <br />
@@ -98,11 +98,11 @@ export default function Home() {
           </li>
           <br />
           <li>
-            co-own (w in-laws) a 7yr 90lb lab named <u><a href="https://twitter.com/dcliem/status/1558936398685560832?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u> (my favicon)
+            co-own (w in-laws) a 7yr 90lb lab named Max (my favicon)
           </li>
           <br />
           <li>
-            occassionally on <u><a href="https://twitter.com/dcliem" target="_blank">Twitter</a></u>, even though I think it&apos;s largely a distraction..
+            occassionally on <u><a href="https://twitter.com/damndanielliem" target="_blank">Twitter</a></u>, even though it&apos;s largely a distraction..
           </li>
           <br />
           <li>
