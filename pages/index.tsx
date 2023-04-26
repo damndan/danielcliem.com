@@ -21,7 +21,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech enthusiast, an active investor, 
           an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> & 
-          dog lover (<a href="https://www.instagram.com/damndanielliem/" target="_blank">my propic</a></u>). i helplessly build things as a hobby.
+          dog lover (<u><a href="https://www.instagram.com/damndanielliem/" target="_blank">my favicon</a></u>). i helplessly build things as a hobby.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -98,7 +98,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            co-own (w in-laws) a 7yr 90lb lab named Max
+            co-own (w in-laws) a 7yr 90lb lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u>
           </li>
           <br />
           <li>
