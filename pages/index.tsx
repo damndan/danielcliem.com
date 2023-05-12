@@ -89,7 +89,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs, living in Bay Area 12+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a doctor!
+            own a home in Sunset, SF for 5+ yrs, Bay Area 12+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a doctor!
           </li>
           <br />
           <li>
@@ -106,7 +106,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            proud 2nd gen Chinese-Indonesian 🇮🇩
+            made in 🇺🇸; proud 2nd gen Chinese-Indonesian 🇮🇩
           </li>
         </ul>
 
