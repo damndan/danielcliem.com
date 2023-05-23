@@ -40,11 +40,11 @@ export default function Home() {
           <br />
           • <u><a href="https://n8n.io/" target="_blank">n8n.io</a></u> – pre-seed (personal)
           <br />
-          • <u><a href="https://www.playbook.com/" target="_blank">Playbook.com</a></u> – series A (personal)
+          • <u><a href="https://www.playbook.com/" target="_blank">Playbook.com</a></u> – (personal)
           <br />
           • <u><a href="https://sironamedical.com/" target="_blank">Sirona Medical</a></u> – pre-seed (personal)
           <br />
-          • <u><a href="https://launchnotes.com/" target="_blank">Launchnotes.com</a></u> – series A (craft)
+          • <u><a href="https://launchnotes.com/" target="_blank">Launchnotes.com</a></u> – (craft)
           <br />
           • <u><a href="https://oslash.com/" target="_blank">Oslash.com</a></u> – seed (personal)
           <br />
@@ -56,7 +56,7 @@ export default function Home() {
           <br />
           • <u><a href="https://headsup.ai/" target="_blank">Headsup.ai</a></u> – seed (personal)
           <br />
-          • <u><a href="https://cooby.co/" target="_blank">Cooby.co</a></u> – series A (craft)
+          • <u><a href="https://cooby.co/" target="_blank">Cooby.co</a></u> – (craft)
           <br />
           • <u><a href="https://highlight.run/" target="_blank">Highlight.run</a></u> – seed (personal)
 
@@ -68,7 +68,7 @@ export default function Home() {
 
           • <u><a href="https://www.nitra.com/" target="_blank">Nitra.com</a></u> – seed (craft)
           <br />
-          • <u><a href="https://livekindred.com/" target="_blank">Kindred</a></u> – series A (personal)
+          • <u><a href="https://livekindred.com/" target="_blank">Kindred</a></u> – (personal)
           <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">Meliora Therapeutics</a></u> – seed (personal)
           <br />
