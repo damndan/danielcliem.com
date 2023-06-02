@@ -32,7 +32,7 @@ export default function Home() {
           <br />
           <li>
             early stage investing in future of work and SaaS: productivity tools, infra / devOps, AI, vertical SaaS.
-            both personally and as a scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack&apos;s fund; $3B AUM):
+            both personally and as scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack&apos;s fund; $3B AUM):
           </li>
           <br />
 
