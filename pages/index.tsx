@@ -27,7 +27,7 @@ export default function Home() {
         <ul className={styles.ul}>
           <li>
             co-founding <u><a href="https://gentrace.ai/" target="_blank">Gentrace.ai</a></u> – an eval / observability tool for LLMs,
-            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>. we have $3.5M seed; we believe AI is going to change everything
+            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>. we've $3.2M seed; we believe AI is going to change everything
           </li>
           <br />
           <li>
