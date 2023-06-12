@@ -32,7 +32,7 @@ export default function Home() {
           <br />
           <li>
             early stage investing in future of work and SaaS: productivity tools, infra / devOps, AI, vertical SaaS.
-            both personally and as a scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack&apos;s fund; $3B AUM):
+            both personally and as a scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (David Sack&apos;s fund; $3B+ AUM):
           </li>
           <br />
 
@@ -52,7 +52,7 @@ export default function Home() {
           <br />
           • <u><a href="https://dromo.io/" target="_blank">Dromo.io</a></u> – seed (personal)
           <br />
-          • <u><a href="https://www.askviable.com/" target="_blank">Viable</a></u> – seed (personal)
+          • <u><a href="https://www.askviable.com/" target="_blank">Viable.fit</a></u> – seed (personal)
           <br />
           • <u><a href="https://headsup.ai/" target="_blank">Headsup.ai</a></u> – seed (personal)
           <br />
@@ -80,8 +80,8 @@ export default function Home() {
           <br />
           <li>
             prev did my tour around SV:
-            investor @ Obvious ventures (Ev William&apos;s fund), product @ Uber, Dropbox & FiscalNote (all three of which have since gone public),
-            specializing in devOps, mobile & SaaS products
+            investor @ Obvious ventures (Ev William&apos;s fund; $1B+ AUM), product @ Uber (platform), Dropbox & FiscalNote (all three of which have since gone public),
+            specializing in infra / devOps, mobile & SaaS products
           </li>
           <br />
           <li>
@@ -89,7 +89,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 5+ yrs, Bay Area 12+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a doctor!
+            own a home in Sunset, SF for 5+ yrs, Bay Area 12+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a doctor
           </li>
           <br />
           <li>
