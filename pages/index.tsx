@@ -6,9 +6,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (<>
-    <Head>
-      <title>danielcliem.com</title>
-    </Head>
+    
     
     <main className={styles.main}>
       <div className={styles.description}>
@@ -21,7 +19,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech enthusiast, an active investor, 
           an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> &&nbsp;
-          <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things as a hobby.
+          <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u> (my favicon). i helplessly build things as a hobby.
         </div>
         <br />
         <ul className={styles.ul}>
