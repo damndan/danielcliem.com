@@ -57,7 +57,7 @@ export default function Home() {
           <br />
           • <u><a href="https://www.askviable.com/" target="_blank">Viable.fit</a></u> – seed (personal)
           <br />
-          • <u><a href="https://headsup.ai/" target="_blank">Headsup.ai</a></u> (acq by Hightouch) – seed (personal)
+          • <u><a href="https://headsup.ai/" target="_blank">Headsup.ai</a></u>, acq by <u><a href="https://hightouch.io/" target="_blank">Hightouch.io</a></u> – seed (personal)
           <br />
           • <u><a href="https://cooby.co/" target="_blank">Cooby.co</a></u> – craft
           <br />
