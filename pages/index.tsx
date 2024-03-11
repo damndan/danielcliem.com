@@ -26,8 +26,8 @@ export default function Home() {
         <br />
         <ul className={styles.ul}>
           <li>
-            co-founder, COO @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – test and prod evaluation infrastructure for gen AI,
-            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>. customers include several growth/public tech cos; we&apos;ve $3.75M seed, 
+            co-founder, COO @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – test and prod evals for gen AI,
+            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>. customers include growth/public tech cos; we&apos;ve $3.75M seed, 
             advisors/backers include founders x leaders @ Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Instabase, Carta, Chronosphere, +more. 
           </li>
           <br />
