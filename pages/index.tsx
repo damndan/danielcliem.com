@@ -21,53 +21,54 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech enthusiast, an active investor, 
           an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> &&nbsp;
-          <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u> (my favicon). i helplessly build things as a hobby.
+          <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things as a hobby.
         </div>
         <br />
         <ul className={styles.ul}>
           <li>
-            co-founder, COO @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – test and prod evals for gen AI,
-            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>. customers include growth/public tech cos; we&apos;ve $3.75M seed, 
-            advisors/backers include founders x leaders @ Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Instabase, Carta, Chronosphere, +more. 
+            co-founder, COO @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals,
+            with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>; 
+            customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, <u><a href="https://gentrace.ai/customers/webflow" target="_blank">Webflow</a></u>, Asana, <u><a href="https://gentrace.ai/customers/multiverse" target="_blank">Multiverse</a></u>, Faire, +more.
+
+            <br /><br />
+
+            <u><a href="https://www.fastcompany.com/91243257/gentrace-makes-it-easier-for-businesses-to-test-ai-powered-software" target="_blank">raised $14M</a></u> (A led by Matrix), 
+            includes founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OpenTelemetry, etc.
           </li>
           <br />
           <li>
-            startup investing in B2B x SaaS: productivity tools, future of work, infra / devOps, AI, vertical SaaS.
-            both personally x scout @ <u><a href="https://www.craftventures.com/" target="_blank">Craft ventures</a></u> (Sack&apos;s fund; $3B+ AUM):
+            startup investing in B2B x SaaS: investing in devOps, dev tools, AI, AI infra, productivity tools, future of work, vertical SaaS.
+            both personally x scout @ <u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> (Sack&apos;s fund; $3B+ AUM):
           </li>
           <br />
 
-          • <u><a href="https://www.linear.app" target="_blank">Linear.app</a></u> – pre-seed (personal)
+          • <u><a href="https://www.linear.app" target="_blank">linear</a></u> – pre-seed (personal)
           <br />
-          • <u><a href="https://n8n.io/" target="_blank">n8n.io</a></u> – pre-seed (personal)
+          • <u><a href="https://n8n.io/" target="_blank">n8n</a></u> – pre-seed (personal)
           <br />
-          • <u><a href="https://gitar.co/" target="_blank">Gitar.co</a></u> – seed (personal)
+          • <u><a href="https://gitar.co/" target="_blank">gitar</a></u> – seed (personal)
           <br />
-          • <u><a href="https://www.playbook.com/" target="_blank">Playbook.com</a></u> – personal
+          • <u><a href="https://www.playbook.com/" target="_blank">playbook</a></u> – personal
           <br />
-          • <u><a href="https://sironamedical.com/" target="_blank">Sirona Medical</a></u> – pre-seed (personal)
+          • <u><a href="https://ac1.ai/" target="_blank">adaptive</a></u> – seed (personal)
           <br />
-          • <u><a href="https://launchnotes.com/" target="_blank">Launchnotes.com</a></u> – craft
+          • <u><a href="https://codegen.com/" target="_blank">codegen</a></u> – craft
           <br />
-          • <u><a href="https://oslash.com/" target="_blank">Oslash.com</a></u> – seed (personal)
+          • <u><a href="https://sironamedical.com/" target="_blank">sirona</a></u> – pre-seed (personal)
           <br />
-          • <u><a href="https://nango.dev/" target="_blank">Nango.dev</a></u> – seed (craft)
+          • <u><a href="https://launchnotes.com/" target="_blank">launchnotes</a></u> – craft
           <br />
-          • <u><a href="https://dromo.io/" target="_blank">Dromo.io</a></u> – seed (personal)
+          • <u><a href="https://nango.dev/" target="_blank">nango</a></u> – seed (craft)
           <br />
-          • <u><a href="https://www.askviable.com/" target="_blank">Viable.fit</a></u> – seed (personal)
+          • <u><a href="https://dromo.io/" target="_blank">dromo</a></u> – seed (personal)
           <br />
-          • <u><a href="https://headsup.ai/" target="_blank">Headsup.ai</a></u>, acq by <u><a href="https://hightouch.io/" target="_blank">Hightouch.io</a></u> – seed (personal)
+          • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq by <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed (personal)
           <br />
-          • <u><a href="https://cooby.co/" target="_blank">Cooby.co</a></u> – craft
+          • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed (craft)
           <br />
-          • Pantheon – seed (craft)
+          • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> – seed (personal)
           <br />
-          • <u><a href="https://highlight.run/" target="_blank">Highlight.run</a></u> – seed (personal)
-          <br />
-          • <u><a href="https://www.jerichosecurity.com/" target="_blank">Jericho Security</a></u> – seed (craft)
-          <br />
-          • Codia – pre-seed (craft)
+          • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed (craft)
 
           <br /><br />
 
@@ -75,22 +76,22 @@ export default function Home() {
 
           <br /><br />
 
-          • <u><a href="https://livekindred.com/" target="_blank">Kindred</a></u> – personal
+          • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – personal
           <br />
-          • <u><a href="https://www.melioratherapeutics.com/" target="_blank">Meliora Therapeutics</a></u> – seed (personal)
+          • <u><a href="https://www.melioratherapeutics.com/" target="_blank">meliora</a></u> – seed (personal)
           <br />
-          • <u><a href="https://www.bonfire.xyz/" target="_blank">Bonfire.xyz</a></u> – seed (craft)
+          • <u><a href="https://www.bonfire.xyz/" target="_blank">bonfire</a></u> – seed (craft)
           <br />
-          • <u><a href="https://www.raincards.xyz/" target="_blank">Rain.xyz</a></u> – seed (personal)
+          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed (personal)
           <br />
-          • <u><a href="https://www.nitra.com/" target="_blank">Nitra.com</a></u> – seed (craft)
+          • <u><a href="https://www.nitra.com/" target="_blank">nitra</a></u> – seed (craft)
           <br />
 
           <br />
           <li>
-            prev did my tour around SV:
-            investor @ obvious (Ev William&apos;s fund; $1B+ AUM), PM @ Uber (platform), Dropbox (mobile platform) & FiscalNote (all three of which have since gone public),
-            specializing in test, release & CI/CD
+            prev did my tour in SV:
+            investor @ obvious (Ev William&apos;s fund; $1B+ AUM), PM @ Uber (platform), Dropbox (mobile platform) & FiscalNote (all three of which have since gone public);
+            scaled Uber x Dropbox's test, release and CI/CD infrastructures
           </li>
           <br />
           <li>
@@ -98,7 +99,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 6+ yrs, Bay Area 13+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a doctor
+            own a home in Sunset, SF for 7+ yrs, Bay Area 14+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a doctor
           </li>
           <br />
           <li>
@@ -107,7 +108,11 @@ export default function Home() {
           </li>
           <br />
           <li>
-            have 8yr 90lb lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u>
+            have 9yr 90lb lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u>
+          </li>
+          <br />
+          <li>
+          currently playing IRL Catan
           </li>
           <br />
           <li>
