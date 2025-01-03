@@ -91,7 +91,7 @@ export default function Home() {
           <li>
             prev did my tour in SV:
             investor @ obvious (Ev William&apos;s fund; $1B+ AUM), PM @ Uber (platform), Dropbox (mobile platform) & FiscalNote (all three of which have since gone public);
-            scaled Uber x Dropbox's test, release and CI/CD infrastructures
+            scaled Uber x Dropbox&apos;s test, release and CI/CD infrastructures
           </li>
           <br />
           <li>
