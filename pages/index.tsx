@@ -15,7 +15,7 @@ export default function Home() {
     
         <div>
 
-          {/* thx for checking out my code! i know it's embarassingly suboptimal (a static page hosted on github is like forcing a square peg in a round hole..),
+          {/* thanks for checking out my code! i know it's embarassingly suboptimal (a static page hosted on github is like forcing a square peg in a round hole..),
           but my intent was to learn Next and how github actions can build deploy. prob should've used Vercel. like i said, I helplessly build things as a hobby */}
 
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
@@ -32,8 +32,8 @@ export default function Home() {
 
             <br /><br />
 
-            <u><a href="https://www.fastcompany.com/91243257/gentrace-makes-it-easier-for-businesses-to-test-ai-powered-software" target="_blank">raised $14M</a></u> (A led by Matrix), 
-            includes founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OpenTelemetry, etc.
+            <u><a href="https://www.fastcompany.com/91243257/gentrace-makes-it-easier-for-businesses-to-test-ai-powered-software" target="_blank">raised $14M</a></u> (A led by Matrix) + 
+            founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OpenTelemetry, etc.
           </li>
           <br />
           <li>
@@ -125,7 +125,7 @@ export default function Home() {
         </ul>
 
         <br />
-        <a href="mailto:hi@danielcliem.com?Subject=cool%20site,%20I'm%20{name}%20–%20let's%20chat">hi@danielcliem.com</a>
+        hi at danielcliem.com
 
       </div>
     </main>
