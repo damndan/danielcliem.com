@@ -26,9 +26,9 @@ export default function Home() {
         <br />
         <ul className={styles.ul}>
           <li>
-            co-founder, COO @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals,
+            co-founder @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals,
             with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>; 
-            customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, <u><a href="https://gentrace.ai/customers/webflow" target="_blank">Webflow</a></u>, Asana, <u><a href="https://gentrace.ai/customers/multiverse" target="_blank">Multiverse</a></u>, Faire, +more.
+            customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, Asana +more.
 
             <br /><br />
 
@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            startup investing in B2B x SaaS: investing in devOps, dev tools, AI, AI infra, productivity tools, future of work, vertical SaaS.
+            startup investing in B2B SaaS: dev tools, AI, AI infra, productivity tools, future of work, vertical SaaS.
             both personally x scout @ <u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> (Sack&apos;s fund; $3B+ AUM):
           </li>
           <br />
@@ -69,6 +69,8 @@ export default function Home() {
           • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> – seed (personal)
           <br />
           • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed (craft)
+          <br />
+          • <u><a href="http://theresidesk.com/" target="_blank">residesk</a></u> – seed (personal)
 
           <br /><br />
 
