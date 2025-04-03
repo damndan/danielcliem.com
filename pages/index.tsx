@@ -19,9 +19,10 @@ export default function Home() {
           but my intent was to learn Next and how github actions can build deploy. prob should've used Vercel. like i said, I helplessly build things as a hobby */}
 
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
-          a tech enthusiast, an active investor, 
-          an <u><a href="https://strava.com/athletes/damndan" target="_blank">addicted athlete</a></u> &&nbsp;
-          <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog lover</a></u>. i helplessly build things as a hobby.
+          a tech maximalist, a proactive investor, 
+          an <u><a href="https://strava.com/athletes/damndan" target="_blank">obsessive athlete</a></u> &&nbsp;
+          <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
+          i helplessly <a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> on wkends to combat boredom.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -62,7 +63,7 @@ export default function Home() {
           <br />
           • <u><a href="https://dromo.io/" target="_blank">dromo</a></u> – seed (personal)
           <br />
-          • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq by <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed (personal)
+          • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed (personal)
           <br />
           • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed (craft)
           <br />
@@ -80,11 +81,11 @@ export default function Home() {
 
           • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – personal
           <br />
+          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed (personal)
+          <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">meliora</a></u> – seed (personal)
           <br />
           • <u><a href="https://www.bonfire.xyz/" target="_blank">bonfire</a></u> – seed (craft)
-          <br />
-          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed (personal)
           <br />
           • <u><a href="https://www.nitra.com/" target="_blank">nitra</a></u> – seed (craft)
           <br />
