@@ -22,7 +22,7 @@ export default function Home() {
           a tech maximalist, a proactive investor, 
           an <u><a href="https://strava.com/athletes/damndan" target="_blank">obsessive athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
-          i helplessly <a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> on wkends to combat boredom.
+          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> on wkends to combat boredom.
         </div>
         <br />
         <ul className={styles.ul}>
