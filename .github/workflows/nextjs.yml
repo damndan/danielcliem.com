@@ -78,9 +78,13 @@ jobs:
           node --version
           npm --version
       - name: Build with Next.js
-        run: ${{ steps.detect-package-manager.outputs.runner }} next build --debug
+        run: |
+          export NODE_OPTIONS="--max-old-space-size=4096"
+          ${{ steps.detect-package-manager.outputs.runner }} next build
       - name: Static HTML export with Next.js
-        run: ${{ steps.detect-package-manager.outputs.runner }} next export --debug
+        run: |
+          export NODE_OPTIONS="--max-old-space-size=4096"
+          ${{ steps.detect-package-manager.outputs.runner }} next export
       - name: List out directory contents
         run: ls -la ./out
       - name: Upload pages artifact
