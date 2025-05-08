@@ -19,8 +19,8 @@ export default function Home() {
           but my intent was to learn Next and how github actions can build deploy. prob should've used Vercel. like i said, I helplessly build things as a hobby */}
 
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
-          a tech maximalist, a proactive investor, 
-          an <u><a href="https://strava.com/athletes/damndan" target="_blank">obsessive athlete</a></u> &&nbsp;
+          a tech/AI maximalist, proactive investor, 
+          <u><a href="https://strava.com/athletes/damndan" target="_blank">obsessive athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
           i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> on wkends to combat boredom.
         </div>
@@ -38,8 +38,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            startup investing in B2B SaaS: dev tools, AI, AI infra, productivity tools, future of work, vertical SaaS.
-            both personally x scout @ <u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> (Sack&apos;s fund; $3B+ AUM):
+            startup investing both personally x scout @ a16z (ex-<u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> - Sack&apos;s fund; $3B+ AUM):
           </li>
           <br />
 
@@ -67,7 +66,7 @@ export default function Home() {
           <br />
           • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed (craft)
           <br />
-          • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> – seed (personal)
+          • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> (acq <u><a href="https://launchdarkly.com/" target="_blank">launchdarkly</a></u>) – seed (personal)
           <br />
           • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed (craft)
           <br />
@@ -85,15 +84,13 @@ export default function Home() {
           <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">meliora</a></u> – seed (personal)
           <br />
-          • <u><a href="https://www.bonfire.xyz/" target="_blank">bonfire</a></u> – seed (craft)
-          <br />
           • <u><a href="https://www.nitra.com/" target="_blank">nitra</a></u> – seed (craft)
           <br />
 
           <br />
           <li>
             prev did my tour in SV:
-            investor @ obvious (Ev William&apos;s fund; $1B+ AUM), PM @ Uber (platform), Dropbox (mobile platform) & FiscalNote (all three of which have since gone public);
+            investor @ obvious (Ev William&apos;s fund; $1B+ AUM), PM @ Uber (platform), Dropbox (mobile platform) & FiscalNote – all three of which have since gone public;
             scaled Uber x Dropbox&apos;s test, release and CI/CD infrastructures
           </li>
           <br />
