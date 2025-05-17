@@ -55,29 +55,27 @@ export default function Home() {
           <br />
           • <u><a href="https://ac1.ai/" target="_blank">adaptive</a></u> – seed (personal)
           <br />
-          • <u><a href="https://codegen.com/" target="_blank">codegen</a></u> – series a (craft)
-          <br />
           • <u><a href="https://sironamedical.com/" target="_blank">sirona</a></u> – pre-seed (personal)
-          <br />
-          • <u><a href="https://launchnotes.com/" target="_blank">launchnotes</a></u> – series a (craft)
-          <br />
-          • <u><a href="https://nango.dev/" target="_blank">nango</a></u> – seed (craft)
-          <br />
-          • <u><a href="https://dromo.io/" target="_blank">dromo</a></u> – seed (personal)
-          <br />
-          • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed (personal)
-          <br />
-          • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed (craft)
-          <br />
-          • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> (acq <u><a href="https://launchdarkly.com/" target="_blank">launchdarkly</a></u>) – seed (personal)
-          <br />
-          • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed (craft)
           <br />
           • <u><a href="http://theresidesk.com/" target="_blank">residesk</a></u> – seed (personal)
           <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">meliora</a></u> – seed (personal)
           <br />
+          • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed (personal)
+          <br />
+          • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> (acq <u><a href="https://launchdarkly.com/" target="_blank">launchdarkly</a></u>) – seed (personal)
+          <br />
           • <u><a href="https://www.nitra.com/" target="_blank">nitra</a></u> – seed (craft)
+          <br />
+          • <u><a href="https://codegen.com/" target="_blank">codegen</a></u> – series a (craft)
+          <br />
+          • <u><a href="https://launchnotes.com/" target="_blank">launchnotes</a></u> – series a (craft)
+          <br />
+          • <u><a href="https://nango.dev/" target="_blank">nango</a></u> – seed (craft)
+          <br />
+          • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed (craft)
+          <br />
+          • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed (craft)
           <br />
 
           <br />
