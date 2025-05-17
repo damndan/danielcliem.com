@@ -19,8 +19,7 @@ export default function Home() {
           but my intent was to learn Next and how github actions can build deploy. prob should've used Vercel. like i said, I helplessly build things as a hobby */}
 
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
-          a tech/AI maximalist, proactive investor, 
-          <u><a href="https://strava.com/athletes/damndan" target="_blank">obsessive athlete</a></u> &&nbsp;
+          a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
           i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> on wkends to combat boredom.
         </div>
@@ -48,15 +47,19 @@ export default function Home() {
           <br />
           • <u><a href="https://gitar.co/" target="_blank">gitar</a></u> – seed (personal)
           <br />
-          • <u><a href="https://www.playbook.com/" target="_blank">playbook</a></u> – personal
+          • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – series a (personal)
+          <br />
+          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed (personal)
+          <br />
+          • <u><a href="https://www.playbook.com/" target="_blank">playbook</a></u> – series a (personal)
           <br />
           • <u><a href="https://ac1.ai/" target="_blank">adaptive</a></u> – seed (personal)
           <br />
-          • <u><a href="https://codegen.com/" target="_blank">codegen</a></u> – craft
+          • <u><a href="https://codegen.com/" target="_blank">codegen</a></u> – series a (craft)
           <br />
           • <u><a href="https://sironamedical.com/" target="_blank">sirona</a></u> – pre-seed (personal)
           <br />
-          • <u><a href="https://launchnotes.com/" target="_blank">launchnotes</a></u> – craft
+          • <u><a href="https://launchnotes.com/" target="_blank">launchnotes</a></u> – series a (craft)
           <br />
           • <u><a href="https://nango.dev/" target="_blank">nango</a></u> – seed (craft)
           <br />
@@ -71,16 +74,6 @@ export default function Home() {
           • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed (craft)
           <br />
           • <u><a href="http://theresidesk.com/" target="_blank">residesk</a></u> – seed (personal)
-
-          <br /><br />
-
-          others not particularly B2B but has angle in future of work x vertical SaaS / i&apos;ve worked with / believe in the founder:
-
-          <br /><br />
-
-          • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – personal
-          <br />
-          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed (personal)
           <br />
           • <u><a href="https://www.melioratherapeutics.com/" target="_blank">meliora</a></u> – seed (personal)
           <br />
