@@ -33,7 +33,7 @@ export default function Home() {
             <br /><br />
 
             lead product, technical scoping, sales / GTM, marketing / PR, CSM, community, growth, ops, legal, recruiting, and IR. 
-            run all onsite customer discovery, sourcing, demos, forward deployed implementation, QBRs and XFN customer relationships.
+            run all onsite product discovery ➝ forward deployed sales motion ➝ QBRs and ongoing XFN customer relationships.
 
             <br /><br />
 
@@ -42,7 +42,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            startup investing both personally x scout @ a16z (ex-<u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> - Sack&apos;s fund; $3B+ AUM):
+            startup investing both personally x scout:
           </li>
 
           <br />
@@ -77,9 +77,9 @@ export default function Home() {
           <br />
 
           <br />
-          a16z: TBA
+          <u><a href="https://a16z.com/" target="_blank">a16z</a></u>: TBA 
           <br />
-          craft:
+          ex-<u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> (Sack&apos;s fund; $3B+ AUM):
           <br />
           
           <br />
