@@ -21,7 +21,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
-          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> on wkends to combat boredom.
+          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -39,7 +39,12 @@ export default function Home() {
           <li>
             startup investing both personally x scout @ a16z (ex-<u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> - Sack&apos;s fund; $3B+ AUM):
           </li>
+
           <br />
+          
+          personal:
+          
+          <br /><br />
 
           • <u><a href="https://www.linear.app" target="_blank">linear</a></u> – pre-seed (personal)
           <br />
@@ -64,6 +69,14 @@ export default function Home() {
           • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed (personal)
           <br />
           • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> (acq <u><a href="https://launchdarkly.com/" target="_blank">launchdarkly</a></u>) – seed (personal)
+          <br />
+
+          <br />
+          a16z: TBA
+          <br />
+          craft:
+          <br />
+          
           <br />
           • <u><a href="https://www.nitra.com/" target="_blank">nitra</a></u> – seed (craft)
           <br />
