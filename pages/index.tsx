@@ -26,9 +26,9 @@ export default function Home() {
         <br />
         <ul className={styles.ul}>
           <li>
-            co-founder @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals,
+            co-founder @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals / tracing,
             with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>; 
-            customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, Asana +more.
+            customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, Asana +more. led product, technical scoping, sales / GTM, marketing / PR, CSM, community, growth, ops, legal, recruiting, and IR
 
             <br /><br />
 
@@ -46,29 +46,29 @@ export default function Home() {
           
           <br /><br />
 
-          • <u><a href="https://www.linear.app" target="_blank">linear</a></u> – pre-seed (personal)
+          • <u><a href="https://www.linear.app" target="_blank">linear</a></u> – pre-seed
           <br />
-          • <u><a href="https://n8n.io/" target="_blank">n8n</a></u> – pre-seed (personal)
+          • <u><a href="https://n8n.io/" target="_blank">n8n</a></u> – pre-seed 
           <br />
-          • <u><a href="https://gitar.co/" target="_blank">gitar</a></u> – seed (personal)
+          • <u><a href="https://gitar.co/" target="_blank">gitar</a></u> – seed 
           <br />
-          • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – series a (personal)
+          • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – series a 
           <br />
-          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed (personal)
+          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed 
           <br />
-          • <u><a href="https://www.playbook.com/" target="_blank">playbook</a></u> – series a (personal)
+          • <u><a href="https://www.playbook.com/" target="_blank">playbook</a></u> – series a
           <br />
-          • <u><a href="https://ac1.ai/" target="_blank">adaptive</a></u> – seed (personal)
+          • <u><a href="https://ac1.ai/" target="_blank">adaptive</a></u> – seed
           <br />
-          • <u><a href="https://sironamedical.com/" target="_blank">sirona</a></u> – pre-seed (personal)
+          • <u><a href="https://sironamedical.com/" target="_blank">sirona</a></u> – pre-seed
           <br />
-          • <u><a href="http://theresidesk.com/" target="_blank">residesk</a></u> – seed (personal)
+          • <u><a href="http://theresidesk.com/" target="_blank">residesk</a></u> – seed
           <br />
-          • <u><a href="https://www.melioratherapeutics.com/" target="_blank">meliora</a></u> – seed (personal)
+          • <u><a href="https://www.melioratherapeutics.com/" target="_blank">meliora</a></u> – seed 
           <br />
-          • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed (personal)
+          • <u><a href="https://headsup.ai/" target="_blank">headsup</a></u> (acq <u><a href="https://hightouch.io/" target="_blank">hightouch</a></u>) – seed
           <br />
-          • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> (acq <u><a href="https://launchdarkly.com/" target="_blank">launchdarkly</a></u>) – seed (personal)
+          • <u><a href="https://highlight.run/" target="_blank">highlight</a></u> (acq <u><a href="https://launchdarkly.com/" target="_blank">launchdarkly</a></u>) – seed 
           <br />
 
           <br />
@@ -78,17 +78,17 @@ export default function Home() {
           <br />
           
           <br />
-          • <u><a href="https://www.nitra.com/" target="_blank">nitra</a></u> – seed (craft)
+          • <u><a href="https://www.nitra.com/" target="_blank">nitra</a></u> – seed
           <br />
-          • <u><a href="https://codegen.com/" target="_blank">codegen</a></u> – series a (craft)
+          • <u><a href="https://codegen.com/" target="_blank">codegen</a></u> – series a
           <br />
-          • <u><a href="https://launchnotes.com/" target="_blank">launchnotes</a></u> – series a (craft)
+          • <u><a href="https://launchnotes.com/" target="_blank">launchnotes</a></u> – series a
           <br />
-          • <u><a href="https://nango.dev/" target="_blank">nango</a></u> – seed (craft)
+          • <u><a href="https://nango.dev/" target="_blank">nango</a></u> – seed
           <br />
-          • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed (craft)
+          • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed
           <br />
-          • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed (craft)
+          • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed
           <br />
 
           <br />
