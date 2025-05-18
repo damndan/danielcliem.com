@@ -28,7 +28,12 @@ export default function Home() {
           <li>
             co-founder @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals / tracing,
             with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>; 
-            customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, Asana +more. led product, technical scoping, sales / GTM, marketing / PR, CSM, community, growth, ops, legal, recruiting, and IR
+            customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, Asana +more. 
+            
+            <br /><br />
+
+            lead product, technical scoping, sales / GTM, marketing / PR, CSM, community, growth, ops, legal, recruiting, and IR. 
+            run all onsite customer discovery, sourcing, demos, forward deployed implementation, QBRs and XFN customer relationships.
 
             <br /><br />
 
