@@ -29,11 +29,6 @@ export default function Home() {
             co-founder @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals / tracing,
             with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>; 
             customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, Asana +more. 
-            
-            <br /><br />
-
-            lead product, technical scoping, sales / GTM, marketing / PR, CSM, community, growth, ops, legal, recruiting, and IR. 
-            run all onsite product discovery ➝ forward deployed sales motion ➝ QBRs and ongoing XFN customer relationships.
 
             <br /><br />
 
@@ -77,9 +72,15 @@ export default function Home() {
           <br />
 
           <br />
-          <u><a href="https://a16z.com/" target="_blank">a16z</a></u>: TBA 
+          <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout (fund III): 
           <br />
-          ex-<u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> (Sack&apos;s fund; $3B+ AUM):
+
+          <br />
+          • <u><a href="https://superlink.ai/" target="_blank">superlink</a></u> – pre-seed
+          <br />
+
+          <br />
+          ex-<u><a href="https://www.craftventures.com/" target="_blank">craft</a></u> scout (Sack&apos;s fund):
           <br />
           
           <br />
