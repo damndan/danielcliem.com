@@ -72,7 +72,7 @@ export default function Home() {
           <br />
 
           <br />
-          <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout fund III (Jennifer Li, GP @ SaaS / infra): 
+          <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout fund III (for Jennifer Li, GP @ SaaS / infra): 
           <br />
 
           <br />
