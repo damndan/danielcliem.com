@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            startup investing both personally x scout. mostly AI, dev tools, SaaS, infra, future of work, vertical SaaS:
+            startup investing both personally x scout: AI, dev tools, B2BSaaS, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
