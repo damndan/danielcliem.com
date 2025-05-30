@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            startup investing both personally x scout:
+            startup investing both personally x scout. mostly AI, dev tools, SaaS, infra, future of work, vertical SaaS:
           </li>
 
           <br />
@@ -72,7 +72,7 @@ export default function Home() {
           <br />
 
           <br />
-          <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout (fund III): 
+          <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout fund III (Jennifer Li, GP @ SaaS / infra): 
           <br />
 
           <br />
