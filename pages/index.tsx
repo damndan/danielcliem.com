@@ -75,8 +75,13 @@ export default function Home() {
           <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout fund III (sponsor: Jennifer Li, GP @ SaaS / infra): 
           <br />
 
+
+          <br />
+          • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
           <br />
           • <u><a href="https://superlink.ai/" target="_blank">superlink</a></u> – pre-seed
+          <br />
+          • <u><a href="https://archiboost.ai/" target="_blank">archiboost</a></u> – seed
           <br />
 
           <br />
