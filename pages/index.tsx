@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            invested in 50+ startups both personally x scout: AI, dev tools, B2BSaaS, infra, future of work, vertical SaaS, & any strong founder
+            invested in 50+ startups both personally x scout:<br />AI, dev tools, B2B SaaS, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
