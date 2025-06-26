@@ -72,7 +72,7 @@ export default function Home() {
           <br />
 
           <br />
-          2025-now: <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout fund III (sponsor: Jennifer Li, GP @ SaaS / infra): 
+          2025-now: <u><a href="https://a16z.com/" target="_blank">a16z</a></u> scout fund III (sponsor: Jennifer Li, GP @ SaaS / infra)
           <br />
 
 
