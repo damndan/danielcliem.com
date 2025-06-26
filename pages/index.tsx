@@ -114,7 +114,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 7+ yrs, Bay Area 14+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a kidney surgeon
+            own a home in Sunset, SF for 8+ yrs (w an incredibly perfect wife), Bay Area 15+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a kidney surgeon
           </li>
           <br />
           <li>
