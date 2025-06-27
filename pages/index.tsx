@@ -21,7 +21,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
-          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things, and spent past decade in devtools and b2b SaaS.
+          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things, and spent past decade in devtools and b2b saas.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            invested in 50+ startups both personally x scout:<br />AI, dev tools, B2B SaaS, infra, future of work, vertical SaaS, & any strong founder
+            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo: AI, dev tools, b2b saas, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
@@ -100,6 +100,8 @@ export default function Home() {
           • <u><a href="https://sonoma.dev/" target="_blank">sonoma</a></u> – pre-seed
           <br />
           • <u><a href="https://www.jerichosecurity.com/" target="_blank">jericho</a></u> – seed
+          <br />
+          • <u><a href="https://pantheon.ai/" target="_blank">pantheon</a></u> – seed
           <br />
 
           <br />
