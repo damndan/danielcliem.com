@@ -21,7 +21,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
-          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things, and spent past decade in devtools and b2b saas.
+          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things, and spent past decade in devtools and b2bsaas.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo: AI, dev tools, b2b saas, infra, future of work, vertical SaaS, & any strong founder
+            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
@@ -107,7 +107,7 @@ export default function Home() {
           <br />
           <li>
             prev did my tour in SV:
-            investor @ obvious (Ev William&apos;s fund; $1B+ AUM), PM @ Uber (platform), Dropbox (mobile platform) & FiscalNote – all three of which have since gone public;
+            investor @ obvious (ev william&apos;s fund; $1b+ AUM), PM @ uber (platform), dropbox (mobile platform) & fiscalnote – all three of which have since gone public;
             scaled Uber x Dropbox&apos;s test, release and CI/CD infra to millions of users
           </li>
           <br />
@@ -116,16 +116,16 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 8+ yrs (w an incredibly perfect wife), Bay Area 15+; Arcadia, LA native (went to AHS) w one slightly smarter brother. Thought I was going to be a kidney surgeon
+            own a home in Sunset, SF for 8+ yrs (w an incredibly perfect wife), Bay Area 15+; Arcadia, LA native (went to AHS) w one slightly smarter brother. thought i was going to be a kidney surgeon
           </li>
           <br />
           <li>
             addicted to cycling;
-            own an Ultra Stealth <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/aeroad-cfr-etap/3950.html?dwvar_3950_pv_rahmenfarbe=R065_P12" target="_blank">Canyon Aeroad CFR disc Di2</a></u>
+            own an Ultra Stealth <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/aeroad-cfr-etap/3950.html?dwvar_3950_pv_rahmenfarbe=R065_P12" target="_blank">canyon aeroad CFR disc di2</a></u>
           </li>
           <br />
           <li>
-            have 9yr 90lb lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">Max</a></u>
+            have 10y yellow lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">max</a></u>
           </li>
           <br />
           <li>
