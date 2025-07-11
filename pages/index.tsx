@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
+            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo; ; aggregate DPI ~5x, TVPI ~20x, to-date: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
@@ -55,6 +55,10 @@ export default function Home() {
           • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – series a 
           <br />
           • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed 
+          <br />
+          • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
+          <br />
+          • <u>asari</u> – seed 
           <br />
           • <u><a href="https://www.playbook.com/" target="_blank">playbook</a></u> – series a
           <br />
@@ -79,9 +83,13 @@ export default function Home() {
           <br />
           • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
           <br />
+          • <u>asari</u> – seed 
+          <br />
           • <u><a href="https://superlink.ai/" target="_blank">superlink</a></u> – pre-seed
           <br />
           • <u><a href="https://archiboost.ai/" target="_blank">archiboost</a></u> – seed
+          <br />
+          • <u><a href="https://www.midianlife.com/" target="_blank">midian</a></u> – pre-seed 
           <br />
 
           <br />
@@ -107,7 +115,7 @@ export default function Home() {
           <br />
           <li>
             prev did my tour in SV:
-            investor @ obvious (ev william&apos;s fund; $1b+ AUM), PM @ uber (platform), dropbox (mobile platform) & fiscalnote – all three of which have since gone public;
+            investor @ obvious (ev william&apos;s fund; $1b+ AUM), PM @ uber/dropbox platforms – all of which have since gone public;
             scaled Uber x Dropbox&apos;s test, release and CI/CD infra to millions of users
           </li>
           <br />
