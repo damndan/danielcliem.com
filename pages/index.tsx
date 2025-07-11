@@ -58,7 +58,7 @@ export default function Home() {
           <br />
           • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
           <br />
-          • <u>asari</u> – seed 
+          • asari – seed 
           <br />
           • <u><a href="https://www.playbook.com/" target="_blank">playbook</a></u> – series a
           <br />
@@ -83,7 +83,7 @@ export default function Home() {
           <br />
           • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
           <br />
-          • <u>asari</u> – seed 
+          • asari – seed 
           <br />
           • <u><a href="https://superlink.ai/" target="_blank">superlink</a></u> – pre-seed
           <br />
