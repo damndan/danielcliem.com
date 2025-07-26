@@ -21,7 +21,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
-          i helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things, and spent past decade in devtools and b2bsaas.
+          built 0→1 dev tools and b2b saas for the past decade - and helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things on wkends.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo; ; aggregate DPI ~5x, TVPI ~20x, to-date: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
+            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo; aggregate DPI ~5x, TVPI ~20x to-date: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
