@@ -33,7 +33,7 @@ export default function Home() {
             <br /><br />
 
             <u><a href="https://www.fastcompany.com/91243257/gentrace-makes-it-easier-for-businesses-to-test-ai-powered-software" target="_blank">raised $14M</a></u> (A led by Matrix) + 
-            founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OTEL, OpenRouter
+            founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OTEL, OpenRouter. Pivoted in 2023 from a failed virtual office product.
           </li>
           <br />
           <li>
@@ -118,7 +118,7 @@ export default function Home() {
           <li>
             prev did my tour in SV:
             investor @ obvious (ev william&apos;s fund, $1b+ AUM), PM @ uber, dropbox, & fiscalnote;
-            scaled Uber x Dropbox&apos;s test, release and CI/CD infra to millions of users
+            scaled Uber x Dropbox&apos;s test, release and CI/CD platforms to millions of users
           </li>
           <br />
           <li>
@@ -135,7 +135,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            have 10y yellow lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">max</a></u>
+            have 10y 80lb yellow lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">max</a></u>
           </li>
           <br />
           <li>
