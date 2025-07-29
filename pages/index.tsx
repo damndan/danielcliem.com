@@ -83,7 +83,7 @@ export default function Home() {
           <br />
           • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
           <br />
-          • asari – seed 
+          • asari – pre-seed 
           <br />
           • <u><a href="https://cadrian.com/" target="_blank">cadrian</a></u> – seed
           <br />
@@ -117,7 +117,7 @@ export default function Home() {
           <br />
           <li>
             prev did my tour in SV:
-            investor @ obvious (ev william&apos;s fund; $1b+ AUM), PM @ uber, dropbox, fiscalnote;
+            investor @ obvious (ev william&apos;s fund, $1b+ AUM), PM @ uber, dropbox, & fiscalnote;
             scaled Uber x Dropbox&apos;s test, release and CI/CD infra to millions of users
           </li>
           <br />
