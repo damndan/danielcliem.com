@@ -26,7 +26,7 @@ export default function Home() {
         <br />
         <ul className={styles.ul}>
           <li>
-            co-founder @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals / tracing,
+            co-founder @ <u><a href="https://gentrace.ai/" target="_blank">Gentrace</a></u> – AI evals / traces,
             with <u><a href="https://www.linkedin.com/in/dsafreno/" target="_blank">Doug</a></u> & <u><a href="https://www.linkedin.com/in/vnair611/" target="_blank">Vivek</a></u>; 
             customers include Walmart, <u><a href="https://gentrace.ai/customers/quizlet" target="_blank">Quizlet</a></u>, Asana +more. 
 
@@ -85,6 +85,8 @@ export default function Home() {
           <br />
           • asari – seed 
           <br />
+          • <u><a href="https://cadrian.com/" target="_blank">cadrian</a></u> – seed
+          <br />
           • <u><a href="https://superlink.ai/" target="_blank">superlink</a></u> – pre-seed
           <br />
           • <u><a href="https://archiboost.ai/" target="_blank">archiboost</a></u> – seed
@@ -115,7 +117,7 @@ export default function Home() {
           <br />
           <li>
             prev did my tour in SV:
-            investor @ obvious (ev william&apos;s fund; $1b+ AUM), PM @ uber/dropbox platforms – all of which have since gone public;
+            investor @ obvious (ev william&apos;s fund; $1b+ AUM), PM @ uber, dropbox, fiscalnote;
             scaled Uber x Dropbox&apos;s test, release and CI/CD infra to millions of users
           </li>
           <br />
