@@ -21,7 +21,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
-          built 0→1 dev and productivity tools for the past decade - and helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things on wkends.
+          built 0→1 b2b SaaS and productivity tools for the past decade - and helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things on wkends.
         </div>
         <br />
         <ul className={styles.ul}>
@@ -33,7 +33,7 @@ export default function Home() {
             <br /><br />
 
             <u><a href="https://www.fastcompany.com/91243257/gentrace-makes-it-easier-for-businesses-to-test-ai-powered-software" target="_blank">raised $14M</a></u> (A led by Matrix) + 
-            founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OTEL, OpenRouter. Pivoted in 2023 from a failed dev communications product.
+            founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OTEL, OpenRouter. Pivoted in 2023 from a failed virtual office app, where I was founding head of product.
           </li>
           <br />
           <li>
@@ -92,6 +92,8 @@ export default function Home() {
           • <u><a href="https://archiboost.ai/" target="_blank">archiboost</a></u> – seed
           <br />
           • <u><a href="https://www.midianlife.com/" target="_blank">midian</a></u> – pre-seed 
+          <br />
+          • <u><a href="https://vibraniumlabs.ai/" target="_blank">vibranium</a></u> – seed 
           <br />
 
           <br />
