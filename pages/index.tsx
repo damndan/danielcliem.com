@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            invested in 50+ startups (generally first check, avg $10-30K), 1-2x /mo; aggregate DPI ~5x, TVPI ~20x to-date: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
+            focus: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
