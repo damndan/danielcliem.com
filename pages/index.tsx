@@ -18,7 +18,7 @@ export default function Home() {
           {/* thanks for checking me out! i know it's embarassingly suboptimal (a static page hosted on github is like forcing a square peg in a round hole..),
           but my intent was to learn Next and how github actions can build deploy. prob should've used Vercel. like i said, I helplessly build things as a hobby */}
 
-          hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
+          hey, world! i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
           built 0→1 b2b SaaS and productivity tools for the past decade - and helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things on wkends.
