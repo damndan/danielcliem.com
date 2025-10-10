@@ -21,7 +21,7 @@ export default function Home() {
           hey, world. i&apos;m <u><a href="https://www.linkedin.com/in/dcliem/" target="_blank">Daniel</a></u>. i&apos;m <u><a href="https://twitter.com/damndanielliem/status/1536403331714756609" target="_blank">happily married</a></u>, 
           a tech/AI maximalist, proactive investor, <u><a href="https://strava.com/athletes/damndan" target="_blank">growing athlete</a></u> &&nbsp;
           <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">dog enthusiast</a></u>.
-          built 0→1 b2b SaaS and productivity tools for the past decade - and helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things on wkends.
+          built 0→1 saas, AI, dev and productivity tools for the past decade - and helplessly <u><a href="https://tankbattle.vercel.app/" target="_blank">build</a></u> things on wkends.
         </div>
         <br />
         <ul className={styles.ul}>
