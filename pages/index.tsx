@@ -137,15 +137,11 @@ export default function Home() {
           <br />
           <li>
             addicted to cycling;
-            own an Ultra Stealth <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/aeroad-cfr-etap/3950.html?dwvar_3950_pv_rahmenfarbe=R065_P12" target="_blank">canyon aeroad CFR disc di2</a></u>
+            own an <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/aeroad-cfr-etap/3950.html?dwvar_3950_pv_rahmenfarbe=R065_P12" target="_blank">ultra stealth canyon aeroad CFR disc di2</a></u>
           </li>
           <br />
           <li>
             have 10y 80lb yellow lab named <u><a href="https://twitter.com/damndanielliem/status/1624888220180951043?s=46&t=tI02mzs0UEAg-jdhLJ5cEA" target="_blank">max</a></u>
-          </li>
-          <br />
-          <li>
-          currently playing IRL Catan
           </li>
           <br />
           <li>
