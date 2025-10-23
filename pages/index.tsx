@@ -58,6 +58,8 @@ export default function Home() {
           <br />
           • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
           <br />
+          • Lumena – seed
+          <br />
           • <u><a href="https://www.ando.so/" target="_blank">ando</a></u> – seed
           <br />
           • <u><a href="https://syntheticlab.co/" target="_blank">synthetic lab</a></u> – pre-seed 
