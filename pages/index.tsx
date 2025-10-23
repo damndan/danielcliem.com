@@ -32,7 +32,7 @@ export default function Home() {
 
             <br /><br />
 
-            <u><a href="https://www.fastcompany.com/91243257/gentrace-makes-it-easier-for-businesses-to-test-ai-powered-software" target="_blank">raised $14M</a></u> (A led by Matrix) + 
+            <u><a href="https://www.fastcompany.com/91243257/gentrace-makes-it-easier-for-businesses-to-test-ai-powered-software" target="_blank">raised $14M</a></u> (A led by Matrix, seed by Pear, Headline, K9) + 
             founders x leaders at Figma, Webflow, Linear, Asana, Faire, Ironclad, Handshake, Instawork, Carta, Sentry, Chronosphere, Big Eye, Gem, Lightstep, Motive, OTEL, OpenRouter.
           </li>
           <br />
