@@ -139,7 +139,7 @@ export default function Home() {
           <br />
           <li>
             addicted to running & cycling;
-            own an <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/aeroad-cfr-etap/3950.html?dwvar_3950_pv_rahmenfarbe=R065_P12" target="_blank">ultra stealth canyon aeroad CFR disc di2</a></u>
+            own an <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/aeroad-cfr-di2/4039.html?dwvar_4039_pv_rahmenfarbe=R108_P01" target="_blank">ultra stealth canyon aeroad CFR disc di2</a></u>
           </li>
           <br />
           <li>
