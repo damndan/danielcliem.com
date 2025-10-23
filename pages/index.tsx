@@ -37,7 +37,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            focus: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
+            active investor; focus: AI, dev tools, b2bsaas, infra, future of work, vertical SaaS, & any strong founder
           </li>
 
           <br />
@@ -50,11 +50,11 @@ export default function Home() {
           <br />
           • <u><a href="https://n8n.io/" target="_blank">n8n</a></u> – pre-seed 
           <br />
+          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed 
+          <br />
           • <u><a href="https://gitar.co/" target="_blank">gitar</a></u> – seed 
           <br />
           • <u><a href="https://livekindred.com/" target="_blank">kindred</a></u> – series a 
-          <br />
-          • <u><a href="https://www.raincards.xyz/" target="_blank">rain</a></u> – seed 
           <br />
           • <u><a href="http://usemalleable.com/" target="_blank">malleable</a></u> – seed
           <br />
