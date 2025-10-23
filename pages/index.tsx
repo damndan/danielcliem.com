@@ -132,11 +132,11 @@ export default function Home() {
           </li>
           <br />
           <li>
-            own a home in Sunset, SF for 8+ yrs (w an incredibly perfect wife), Bay Area 15+; Arcadia, LA native (went to AHS) w one slightly smarter brother. thought i was going to be a kidney surgeon
+            own a home in Sunset, SF for 8+ yrs, Bay Area 15+; Arcadia, LA native (went to AHS) w one slightly smarter brother. thought i was going to be a kidney surgeon
           </li>
           <br />
           <li>
-            addicted to cycling;
+            addicted to running & cycling;
             own an <u><a href="https://www.canyon.com/en-us/road-bikes/aero-bikes/aeroad/cfr/aeroad-cfr-etap/3950.html?dwvar_3950_pv_rahmenfarbe=R065_P12" target="_blank">ultra stealth canyon aeroad CFR disc di2</a></u>
           </li>
           <br />
@@ -149,7 +149,7 @@ export default function Home() {
           </li>
           <br />
           <li>
-            made in 🇺🇸; proud 2nd gen Chinese-Indonesian 🇮🇩
+            made in 🇺🇸; proud 1st gen Chinese-Indonesian 🇮🇩
           </li>
         </ul>
 
